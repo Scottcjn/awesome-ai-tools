@@ -63,7 +63,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
 
 ## GEO (Generative Engine Optimization)
- **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+ **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility within LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
 
 ## SEO & Search Optimization
 
